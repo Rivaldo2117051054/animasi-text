@@ -39,7 +39,6 @@ while(i<30){
 	
 	
 
-
 	getch();
 	endwin();
 
