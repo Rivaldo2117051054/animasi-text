@@ -14,6 +14,7 @@ while(i<30){
 	mvprintw(9,i++,"=");
 	refresh();
 	Sleep(200);
+	//sleep untuk menentukan kecepatan 1000 untuk 1 detik
 	
 	mvprintw(10,z++," LOADING");
 	refresh();
@@ -36,6 +37,7 @@ while(i<30){
 	mvprintw(13,15," Namaku Rivaldo");
 	refresh();
 	Sleep(200);
+	//muncul saat perulangan selesai
 	
 	
 
