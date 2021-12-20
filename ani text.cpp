@@ -9,7 +9,7 @@ using namespace std;
    NPM: 2117051054 */ 
    
 int main(){
-	int i=0,z=2,o=14,p=46;
+	int i=0,z=2,o=14,p=46; 
 	initscr();
 while(i<30){
 	mvprintw(9,i++,"=");
