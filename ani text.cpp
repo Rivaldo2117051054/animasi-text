@@ -42,6 +42,7 @@ while(i<30){
 	
 
 	getch();
+	//menekan tombol sblum program keluar
 	endwin();
 
 }
