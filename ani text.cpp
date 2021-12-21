@@ -6,7 +6,7 @@ using namespace std;
 
 /* Nama : Rivaldo
    Kelas: B
-   NPM: 2117051054 */ 
+   NPM: 2117051054 */  
    
 int main(){
 	int i=0,z=2,o=14,p=46; 
