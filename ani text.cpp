@@ -38,8 +38,6 @@ while(i<30){
 	refresh();
 	Sleep(200);
 	//muncul saat perulangan selesai
-	
-	
 
 	getch();
 	//menekan tombol sblum program keluar
