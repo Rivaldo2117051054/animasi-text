@@ -39,3 +39,4 @@ while(i<30){
 	endwin();
 
 }
+ 
