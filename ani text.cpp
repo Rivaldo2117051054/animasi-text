@@ -26,7 +26,7 @@ while(i<30){
 	refresh();
 	Sleep(200);	
 	mvprintw(13,p--,">");
-	refresh();
+	refresh(); 
 	Sleep(200); 
 }
 	mvprintw(13,15," Namaku Rivaldo");
