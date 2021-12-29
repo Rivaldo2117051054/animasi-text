@@ -31,7 +31,7 @@ while(i<30){
 }
 	mvprintw(13,15," Namaku Rivaldo");
 	refresh();
-	Sleep(200);
+	Sleep(200); 
 	//muncul saat perulangan selesai
 
 	getch();
