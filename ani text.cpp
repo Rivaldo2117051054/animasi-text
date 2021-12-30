@@ -25,7 +25,7 @@ while(i<30){
 	mvprintw(13,o--,"<");
 	refresh();
 	Sleep(200);	
-	mvprintw(13,p--,">");
+	mvprintw(13,p--,">"); 
 	refresh(); 
 	Sleep(200); 
 }
