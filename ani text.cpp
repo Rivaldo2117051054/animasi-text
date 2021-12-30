@@ -1,4 +1,4 @@
-#include <ncurses/ncurses.h>
+#include <ncurses/ncurses.h> 
 #include <iostream>
 #include <windows.h>//library untuk menggunakan fungsi sleep
   
