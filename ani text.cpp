@@ -16,7 +16,7 @@ while(i<30){
 	refresh();
 	Sleep(200);
 	//sleep untuk menentukan kecepatan 1000 untuk 1 detik	
-	mvprintw(10,z++," LOADING");
+	mvprintw(10,z++," LOADING"); 
 	refresh();
 	Sleep(200);	
 	mvprintw(11,i++,"=");
