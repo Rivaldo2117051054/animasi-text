@@ -5,7 +5,7 @@
 using namespace std; 
  
 /* Nama : Rivaldo 
-   Kelas: B     
+   Kelas: B      
    NPM: 2117051054 */      
      
 int main(){    
