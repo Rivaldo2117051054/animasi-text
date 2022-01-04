@@ -2,7 +2,7 @@
 #include <iostream>  
 #include <windows.h>//library untuk menggunakan fungsi sleep
   
-using namespace std;  
+using namespace std;   
  
 /* Nama : Rivaldo 
    Kelas: B        
