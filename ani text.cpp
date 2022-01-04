@@ -10,7 +10,7 @@ using namespace std;
      
 int main(){    
 	int i=0,z=2,o=14,p=46;   
-	initscr();  
+	initscr();   
 while(i<30){ 
 	mvprintw(9,i++,"=");
 	refresh();
