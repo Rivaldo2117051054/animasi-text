@@ -3,7 +3,7 @@
 #include <windows.h>//library untuk menggunakan fungsi sleep
    
 using namespace std;   
- 
+  
 /* Nama : Rivaldo 
    Kelas: B        
    NPM: 2117051054 */      
