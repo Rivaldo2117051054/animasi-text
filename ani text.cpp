@@ -21,7 +21,7 @@ while(i<30){
 	Sleep(200);	
 	mvprintw(11,i++,"=");
 	refresh();
-	Sleep(200);
+	Sleep(200); 
 	mvprintw(13,o--,"<");
 	refresh();
 	Sleep(200);	
